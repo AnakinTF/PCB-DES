@@ -1,0 +1,6 @@
+Partlist exported from C:/Users/vcris/OneDrive/Documentos/EAGLE/projects/DES CPC/Cartucho Sin Led.sch at 31/12/2020 17:41
+
+Qty Value                                   Device                                  Package             Parts Description                BUILT_BY    COPYRIGHT                                                   MANUFACTURER_PART_NUMBER POPULARITY SOURCELIBRARY           SPICEPREFIX VENDOR   
+1   100pF                                   C-EUC0805                               C0805               C1    CAPACITOR, European symbol                                                                                                  88                                 C                    
+1   GBA_CARTNORMAL                          GBA_CARTNORMAL                          GBA_CART            U$1                                                                                                                                                                                       
+1   SST39SF040-70-4C-WHETSOP32_WH_SST_MCH-M SST39SF040-70-4C-WHETSOP32_WH_SST_MCH-M TSOP32_WH_SST_MCH-M U1                               EMA_Jessica Copyright (C) 2018 Accelerated Designs. All rights reserved SST39SF040-70-4C-WHE                Microchip_2019-08-23_18             Microchip
